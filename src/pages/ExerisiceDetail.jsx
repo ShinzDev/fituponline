@@ -3,7 +3,7 @@ import React from 'react'
 const ExerisiceDetail = () => {
   return (
     <div>
-      
+      appxbdhSBDHbhfkuhcjkw
     </div>
   )
 }
